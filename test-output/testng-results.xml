@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-16T17:49:25 IST" name="Default suite" finished-at="2024-10-16T17:50:04 IST" duration-ms="38934">
+    <groups>
+    </groups>
+    <test started-at="2024-10-16T17:49:25 IST" name="Default test" finished-at="2024-10-16T17:50:04 IST" duration-ms="38934">
+      <class name="automation_Test.Automationtest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:automation_Test.Automationtest@74d1dc36]" started-at="2024-10-16T17:48:51 IST" name="setUp" finished-at="2024-10-16T17:49:25 IST" duration-ms="34264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="build()[pri:0, instance:automation_Test.Automationtest@74d1dc36]" started-at="2024-10-16T17:49:25 IST" name="build" finished-at="2024-10-16T17:49:54 IST" duration-ms="28246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- build -->
+        <test-method signature="execute_shell_script()[pri:0, instance:automation_Test.Automationtest@74d1dc36]" started-at="2024-10-16T17:49:54 IST" name="execute_shell_script" finished-at="2024-10-16T17:50:04 IST" duration-ms="10649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- execute_shell_script -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:automation_Test.Automationtest@74d1dc36]" started-at="2024-10-16T17:50:04 IST" name="tearDown" finished-at="2024-10-16T17:50:05 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- automation_Test.Automationtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
